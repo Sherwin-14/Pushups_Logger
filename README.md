@@ -1,4 +1,4 @@
-# Flask Project: Pushups Logger
+#  Pushups Logger
 
 ## Introduction
 
